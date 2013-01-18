@@ -1,13 +1,14 @@
 {
   "name": "expire",
-  "version": "1.0.3",
-  "title": "jQuery.expire()",
+  "title": "jQuery Expire",
+  "description": "Checks to see whether a page has expired and, if so, performs an action.",
+  "keywords": [
+    "event"
+  ],
+  "version": "1.0.4",
   "author": {
     "name": "Travis Horn",
     "url": "http://travishorn.com"
-  },
-  "dependencies": {
-    "jquery": ">=1.7.2"
   },
   "licenses": [
     {
@@ -15,6 +16,11 @@
       "url": "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
     }
   ],
-  "description": "Checks to see whether a page has expired and, if so, performs an action.",
-  "homepage": "http://travishorn.github.com/jquery-expire/"
+  "bugs": "https://github.com/travishorn/jquery-expire/issues",
+  "homepage": "http://travishorn.github.com/jquery-expire",
+  "docs": "http://travishorn.github.com/jquery-expire",
+  "download": "https://github.com/travishorn/jquery-expire/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.7.2"
+  }
 }
