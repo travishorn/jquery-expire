@@ -1,11 +1,11 @@
 {
   "name": "expire",
-  "title": "jQuery Expire",
+  "title": "Expire",
   "description": "Checks to see whether a page has expired and, if so, performs an action.",
   "keywords": [
     "event"
   ],
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": {
     "name": "Travis Horn",
     "url": "http://travishorn.com"
