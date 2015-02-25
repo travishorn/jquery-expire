@@ -1,6 +1,6 @@
 {
   "name": "jquery-expire",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "jQuery plugin to check to see whether a page has expired and, if so, performs an action.",
   "main": "jquery.expire.js",
   "repository": {
